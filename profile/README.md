@@ -57,4 +57,6 @@ curl -fsSL https://raw.githubusercontent.com/net-merge/net-merge/main/install.sh
 - **[website](https://github.com/net-merge/website)**: the source of [net-merge.org](https://net-merge.org), and the Linux package server
 - **[homebrew-tap](https://github.com/net-merge/homebrew-tap)**: `brew install net-merge/tap/net-merge`
 
+Need to choose the connection for each app? Try [RoutEngine](https://routengine.net/?utm_source=net-merge&utm_medium=org-profile), by the same developer: per-app routing, speed limits and data caps for Windows, macOS and Linux.
+
 Want to help? Read [CONTRIBUTING](https://github.com/net-merge/net-merge/blob/main/CONTRIBUTING.md). Questions: hello@net-merge.org.
